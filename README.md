@@ -31,7 +31,7 @@ This project retrieves token holder wallet addresses and their token balances fo
    If you have Git installed, open your terminal (or command prompt) and run:
    ```bash
    git clone <repository_url>
-   cd sol-holders
+   cd cd sol_holder_snapshot
 
 2. **Install Dependencies**
     ```bash
