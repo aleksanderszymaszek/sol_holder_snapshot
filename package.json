@@ -1,0 +1,22 @@
+{
+  "name": "sol-holders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "@tatumio/tatum": "^4.2.45",
+    "axios": "^1.7.9",
+    "axios-retry": "^4.5.0",
+    "bs58": "^5.0.0",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.7"
+  }
+}
